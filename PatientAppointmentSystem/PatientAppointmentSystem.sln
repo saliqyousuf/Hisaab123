@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSWebApp", "PSWebApp\PSWebApp.csproj", "{32060706-99A5-495A-9CB8-3B0FFFA526A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSDAL", "PSDAL\PSDAL.csproj", "{BB0F7C9D-DD26-4E95-A7AC-A76E77055CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSBLL", "PSBLL\PSBLL.csproj", "{67306F7B-0EBA-4B48-92B5-FA604019F123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSAPI", "PSAPI\PSAPI.csproj", "{7B512CA6-C939-45D1-AA6E-387D7D44917F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32060706-99A5-495A-9CB8-3B0FFFA526A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32060706-99A5-495A-9CB8-3B0FFFA526A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32060706-99A5-495A-9CB8-3B0FFFA526A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32060706-99A5-495A-9CB8-3B0FFFA526A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F7C9D-DD26-4E95-A7AC-A76E77055CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F7C9D-DD26-4E95-A7AC-A76E77055CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F7C9D-DD26-4E95-A7AC-A76E77055CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F7C9D-DD26-4E95-A7AC-A76E77055CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67306F7B-0EBA-4B48-92B5-FA604019F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67306F7B-0EBA-4B48-92B5-FA604019F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67306F7B-0EBA-4B48-92B5-FA604019F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67306F7B-0EBA-4B48-92B5-FA604019F123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B512CA6-C939-45D1-AA6E-387D7D44917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B512CA6-C939-45D1-AA6E-387D7D44917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B512CA6-C939-45D1-AA6E-387D7D44917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B512CA6-C939-45D1-AA6E-387D7D44917F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1853DDC-245B-4EF0-9C3F-BEB0DA0E577F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nits123.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PSWebApp\\PSWebApp.csproj
+		SccProjectName1 = PSWebApp
+		SccLocalPath1 = PSWebApp
+		SccProjectUniqueName2 = PSDAL\\PSDAL.csproj
+		SccProjectName2 = PSDAL
+		SccLocalPath2 = PSDAL
+		SccProjectUniqueName3 = PSBLL\\PSBLL.csproj
+		SccProjectName3 = PSBLL
+		SccLocalPath3 = PSBLL
+		SccProjectUniqueName4 = PSAPI\\PSAPI.csproj
+		SccProjectName4 = PSAPI
+		SccLocalPath4 = PSAPI
+	EndGlobalSection
+EndGlobal
